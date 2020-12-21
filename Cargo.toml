@@ -1,0 +1,9 @@
+[package]
+name = "metricas_pedro"
+version = "0.1.0"
+authors = ["daniel lenarduzzi <daniel.lenarduzzi@leniolabs.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
